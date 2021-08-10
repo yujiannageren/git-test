@@ -7,5 +7,7 @@ public class recipeexport {
         System.out.println("多挣钱！");
         System.out.println("我好难");
         System.out.println("太难了！");
+        System.out.println("git1！");
+        System.out.println("git2！");
     }
 }
