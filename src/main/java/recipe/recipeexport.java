@@ -9,5 +9,8 @@ public class recipeexport {
         System.out.println("太难了！");
         System.out.println("git1！");
         System.out.println("git2！");
+        System.out.println("git3！");
+        System.out.println("git4！");
+        System.out.println("git5！");
     }
 }
